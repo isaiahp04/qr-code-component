@@ -67,4 +67,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/isaiahp04)
+- Frontend Mentor - [@isaiahp04](https://www.frontendmentor.io/profile/isaiahp04)
